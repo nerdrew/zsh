@@ -1,0 +1,2 @@
+# To build
+make CFLAGS='-I/Users/andrew/dev/mruby/include -g'

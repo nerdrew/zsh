@@ -1,0 +1,8 @@
+name=zsh/rush
+link=dynamic
+load=no
+
+autofeatures="b:rush"
+
+objects="rush.o /Users/andrew/dev/mruby/lib/libmruby.a"
+proto="rush.syms"
